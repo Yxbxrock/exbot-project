@@ -3,21 +3,35 @@ global.mods = [] // Want some help?
 global.prems = ["6285710780863", "6281347962643", "6282365089294"] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
+  bx: 'https://bx-hunter.herokuapp.com',
+  amel: 'https://melcanz.com',
+  hardianto: 'https://hardianto-chan.herokuapp.com',
+  jonaz: 'https://jonaz-api-v2.herokuapp.com',
+  neoxr: 'https://neoxr-api.herokuapp.com',
   nrtm: 'https://nurutomo.herokuapp.com',
-  xteam: 'https://api.xteam.xyz',
-  zahir: 'https://zahirr-web.herokuapp.com',
-  zeks: 'https://api.zeks.me',
   pencarikode: 'https://pencarikode.xyz',
-  LeysCoder: 'https://leyscoders-api.herokuapp.com',
-  bg: 'http://bochil.ddns.net'
+  xteam: 'https://api.xteam.xyz',
+  lolhum: 'https://api.lolhuman.xyz',
+  zahir: 'https://zahirr-web.herokuapp.com',
+  zekais: 'http://zekais-api.herokuapp.com',
+  zeks: 'https://api.zeks.xyz',
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'd90a9e986e18778b',
-  'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.me': 'rthelolchex',
+  'https://bx-hunter.herokuapp.com': 'Ikyy69',
+  'https://melcanz.com': 'lugay',
+  'https://hardianto-chan.herokuapp.com': 'hardianto',
+  'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://pencarikode.xyz': 'pais',
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll'
+  'https://api.xteam.xyz': 'memeki',
+  'https://api.lolhuman.xyz': 'windaj',
+  'https://zahirr-web.herokuapp.com': 'zahirgans',
+  'https://zekai-api.herokuapp.com': 'komtolofon',
+  'https://api.zeks.xyz': 'apivinz',
+
+
+
+
 }
 
 // Messages
